@@ -22,6 +22,6 @@
 
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NerdyWithZainab&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="NerdyWithZainab" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=#your-NerdyWithZainab&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="NerdyWithZainab" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NerdyWithZainab&theme=highcontrast&hide_border=true" alt="#NerdyWithZainab" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?NerdyWithZainab&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="NerdyWithZainab" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NerdyWithZainab&theme=highcontrast&hide_border=true" alt="NerdyWithZainab" />
 </p>
