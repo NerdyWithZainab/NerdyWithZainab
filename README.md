@@ -19,6 +19,7 @@
 
 
 <div align="center">I am a continuous visual learner who wants to experiment with different technologies and recreate some awesome projects I'm curious about.</div>
+<hr>
 
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NerdyWithZainab&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="NerdyWithZainab"/>
