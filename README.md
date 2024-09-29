@@ -28,3 +28,16 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NerdyWithZainab&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="NerdyWithZainab" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NerdyWithZainab&theme=highcontrast&hide_border=true" alt="NerdyWithZainab" />
 </p>
+
+<h3>Programming Languages</h3>
+<hr>
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/4d3817c8-04a6-4332-83b7-f948c49019e4" width="50"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/05b48726-0be9-4083-95b5-d09990d9f404" width="50"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/d9383995-003b-42b5-9117-1c7fe208981f" width="50"/>
+</p>
+
+
+
