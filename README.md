@@ -39,5 +39,9 @@
   <img src="https://github.com/user-attachments/assets/d9383995-003b-42b5-9117-1c7fe208981f" width="50"/>
 </p>
 
-
-
+<h3>Frameworks</h3>
+<hr>
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/9526bd78-1b97-481a-8732-5166b48d48fb" width="50"/>
+  <img src="https://github.com/user-attachments/assets/2a1f7a1c-8566-4546-a1d9-9358906688d6" width="50"/>
+</p>
